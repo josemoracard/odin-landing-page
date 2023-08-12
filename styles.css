@@ -32,6 +32,12 @@ header a {
     font-size: 18px;
 }
 
+
+header section img {
+    width: 500px;
+    border-radius: 6px;
+}
+
 /* Hero section */
 
 .hero {
@@ -71,10 +77,6 @@ header a {
     font-weight: 600;
     cursor: pointer;
     display: inline-block;
-}
-
-header section img {
-    width: 500px;
 }
 
 .information-header {
